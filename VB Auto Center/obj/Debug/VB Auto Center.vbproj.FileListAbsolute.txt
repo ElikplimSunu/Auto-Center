@@ -1,0 +1,11 @@
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.exe.config
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.exe
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.pdb
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.xml
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.vbprojAssemblyReference.cache
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\obj\Debug\VB_Auto_Center.Form1.resources
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\obj\Debug\VB_Auto_Center.Resources.resources
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.vbproj.GenerateResource.cache
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.exe
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.xml
+D:\Documents\Visual Basic Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.pdb
